@@ -1,5 +1,5 @@
-import 'package:advent_of_code_2023/1_advent_of_code_2023.dart' as advent_of_code_2023;
+import 'package:advent_of_code_2023/2_aco_2023.dart';
 
 void main(List<String> arguments) {
-  print('${advent_of_code_2023.calculate()}');
+  print('${sum()}');
 }
